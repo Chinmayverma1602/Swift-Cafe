@@ -1,6 +1,6 @@
 # swiftcafe
 
-A new Flutter project.
+A coffe ordering application known as Swift Cafe.
 
 ## Getting Started
 
